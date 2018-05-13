@@ -1,4 +1,4 @@
-# CPP Java 1 Opdracht 2: 7 november 2017
+# Open Universiteit CPP Java programmeur module Java 1 Opdracht 2: 7 november 2017
 Ontwerp van een klasse Bank met rekeningen en een grafische user interface om geld over te maken tussen de rekeningen.
 
 De applicatie is gebouwd op basis van een klassendiagram waarin voor iedere domeinklasse attributen en methoden
